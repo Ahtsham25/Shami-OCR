@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shami Academy OCR</string>
+    <string name="academy_title">Shami Academy Paper OCR</string>
+    <string name="academy_subtitle">Exam Paper &amp; Questions Extractor</string>
+    <string name="mcqs_title">Multiple Choice Questions (MCQs)</string>
+    <string name="short_questions_title">Short Questions</string>
+    <string name="long_questions_title">Long / Detailed Questions</string>
+    <string name="select_pdf_btn">Select PDF File</string>
+    <string name="select_image_btn">Select Paper Image</string>
+    <string name="sample_paper_btn">Try Sample Paper</string>
+    <string name="export_txt_btn">Export .TXT File</string>
+    <string name="copy_text_btn">Copy Text</string>
+    <string name="share_file_btn">Share File</string>
+    <string name="extraction_in_progress">Analyzing paper and extracting questions...</string>
+    <string name="extract_questions_btn">Extract Questions</string>
+    <string name="no_questions_yet">No questions extracted yet. Select a PDF or image above.</string>
+</resources>

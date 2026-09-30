@@ -1,0 +1,6 @@
+{
+  "name": "Shami Academy OCR",
+  "description": "Smart PDF & exam paper OCR extractor for Shami Academy to extract MCQs, Short Questions, and Long Questions in Urdu and English directly to clean text files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
